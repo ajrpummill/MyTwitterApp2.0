@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="https://recordit.co/BAUXotAWau" width=250><br>
+<img src="https://recordit.co/BAUXotAWau.gif" width=250><br>
 
 # Project 3 - *MyTwitterApp*
 
